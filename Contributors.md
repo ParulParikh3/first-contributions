@@ -54,6 +54,7 @@
 - [Roppon Picha](https:/github.com/cocobaco)
 - [Denni Bevilacqua](https://github.com/dennib)
 - [Parth Santoki](https://github.com/parthsantoki01)
+- [Parul Parikh](https://github.com/ParulParikh3)
 - [Avijit Mondal](https://github.com/avijitmondal)
 - [Mehul Mathur](https://github.com/Mehul1604)
 -[Waleed Jameel](https://github.com/waleedj99)
